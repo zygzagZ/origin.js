@@ -25,6 +25,11 @@
         nested routes
       </router-link>
     </h2>
+    <h2>
+      <router-link to="/wasmExample">
+        wasm example
+      </router-link>
+    </h2>
     <router-view />
   </div>
 </template>

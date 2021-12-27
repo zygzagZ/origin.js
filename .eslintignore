@@ -6,6 +6,7 @@ packages/cli/oriTemplate/*
 packages/cli/oriTemplate/_package.json
 packages/cli/oriTemplate/_vite.config.ts
 packages/cli/oriTemplate/src/main.ts
+examples/vue3/src/wasm/
 
 # Examples
 
